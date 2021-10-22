@@ -1,7 +1,7 @@
 {
     "name": "Auto Welcome Bot",
-    "description": "iam Id Bot @MRK_YT",
-    "logo": "https://telegra.ph/file/c4a3eea0c20318b6d88b6.jpg",
+    "description": "iam Id Bot @AD_BOTX",
+    "logo": "https://telegra.ph/file/91e2c5a0eb175c100aa7f.jpg",
     "keywords": [
         "Telegram",
         "Custom",
@@ -10,54 +10,54 @@
         "Welcome", 
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Welcome-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/AD_BOTZ12",
+    "repository": "https://github.com/LuciferMoringStarDevil/Auto-wellcome-bot",
+    "ForMovie": "https://t.me/ADMOVEIAD",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Your APP_ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "🌟Your APP_ID From  @MT_MyTelegramOrg_Bot🌟",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API_Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "🌟Your API_Hash From  @MT_MyTelegramOrg_Bot🌟",
             "value": ""
         },
         "APP_NAME": {
-            "description": "Enter Heroku App Name",
+            "description": "🌟Enter Heroku App Name🌟",
             "value": "autowelcomebot",
             "required": false
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "🌟Your Bot Token From @BotFather🌟",
             "value": ""
         },
         "HOSTED": {
-            "description": "Check readme.md file for more details (true)",
+            "description": "🌟Check readme.md file for more details (true)🌟",
             "value": "",
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Bot Token From @MT_ID_Bot",
+            "description": "🌟Your Bot Token From @MT_ID_Bot🌟",
             "value": ""
         },
         "WELCOME_TEXT": {
-            "description": "Set Your Welcome Text More Information Check Out Readme.md",
+            "description": "🌟Set Your Welcome Text More Information Check Out Readme.md🌟",
             "value": "",
             "required": false
         },
         "WELCOME_BUTTON": {
-            "description": "Check readme.md file for more details (true)",
+            "description": "🌟Check readme.md file for more details (true)🌟",
             "value": "",
             "required": false
         },
         "WELCOME_BUTTON_LINK": {
-            "description": "give your [private or Public] Channel or Group Link || you must use https://t.me or t.me Dont use @",
+            "description": "🌟give your [private or Public] Channel or Group Link || you must use https://t.me or t.me Dont use @",
             "value": "",
             "required": false
         },
         "WELCOME_BUTTON_NAME": {
-            "description": "Give the button a name (eg:-JOIN NOW)",
+            "description": "🌟Give the button a name (eg:-JOIN NOW)🌟",
             "value": "",
             "required": false
         }
